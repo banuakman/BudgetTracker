@@ -59,7 +59,7 @@ When brought back online:
 
 ## Contributers
 
-Initial files are provided by Trilogy Education Services, LLC.There were no other collaborators for this project.
+Initial files are provided by Trilogy Education Services, LLC. There were no other collaborators for this project.
 
 ## Tests
 
